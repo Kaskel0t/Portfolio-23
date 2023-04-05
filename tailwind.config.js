@@ -8,8 +8,12 @@ module.exports = {
     extend: {  
       
     fontFamily: {
-        'venus+': ["'venus+'", 'sans-serif']
+        'Venus-Carrare': ["'Venus-Carrare'", 'sans-serif'], 'Venus-Plomb':["'Venus-Carrare'", 'sans-serif'],
       },
+
+
+      
+      
 
       colors: {
 
